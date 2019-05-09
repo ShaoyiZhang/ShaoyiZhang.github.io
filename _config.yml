@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Blog
 tagline:          "Shaoyi's Blog"
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              shaoyizhang.com/
-baseurl:          /
+url:              shaoyizhang.com
+baseurl:          ''
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Shaoyi Zhang'
+  url:            ''
 
 plugins:
   - jekyll-paginate
