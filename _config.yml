@@ -6,24 +6,27 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Blog
+title:            Avalon
 tagline:          "Shaoyi's Blog"
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      "Shaoyi Zhang's Blog"
 url:              shaoyizhang.com
 baseurl:          ''
 
 author:
   name:           'Shaoyi Zhang'
-  url:            ''
+  url:            'shaoyizhang.com'
 
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-seo-tag
 
 paginate: 5
 
 # Custom vars
 version:          2.1.0
+
+excerpt_separator: <!--more-->
 
 github:
   repo:           https://github.com/poole/hyde

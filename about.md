@@ -3,28 +3,19 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+ Hey there! My name is Shaoyi Zhang (Shawn). I'm a software engineer at Oracle Database Cloud APEX team.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+ I was born in Suzhou, Jiangsu, China. I lived there for 18 years before going to college at University of California, Santa Barbara. In 2018, I graduated from UCSB with B.S. in Computer Science and B.S. in Statistical Science.
 
-There are currently two themes built on Poole:
+ Now, I'm in Reston, Virgina, where the APEX team is based.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+ I have a white Ragdoll cat named Lady Pig.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Contact
+Have questions or suggestions? Feel free to contact me via email.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* [GitHub](https://github.com/ShaoyiZhang)
+* [Email](mailto:zhangshaoyi1995@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/shaoyizhang/)
 
 Thanks for reading!
