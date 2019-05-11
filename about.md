@@ -14,8 +14,8 @@ title: About
 ## Contact
 Have questions or suggestions? Feel free to contact me via email.
 
-* [GitHub](https://github.com/ShaoyiZhang)
 * [Email](mailto:zhangshaoyi1995@gmail.com)
+* [GitHub](https://github.com/ShaoyiZhang)
 * [LinkedIn](https://www.linkedin.com/in/shaoyizhang/)
 
 Thanks for reading!
