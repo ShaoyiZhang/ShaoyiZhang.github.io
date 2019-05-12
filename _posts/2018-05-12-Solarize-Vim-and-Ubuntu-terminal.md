@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Solarize Vim and Ubuntu terminal
+comments: true
 ---
 
 After trying both dark and light  themes for serval month, I decided to use Solarized Light colorscheme for all editors and IDEs. I think the background color should match the surrounding to reduce eye tiredness. At work or at home, I always work/game in a bright area. Therefore, a lighter theme like Solarized Light is a natural choice for me.
