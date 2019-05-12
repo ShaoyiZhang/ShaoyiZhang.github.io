@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Avalon
 tagline:          "Shaoyi's Blog"
 description:      "Shaoyi Zhang's Blog"
-url:              shaoyizhang.com
+url:              https://shaoyizhang.com
 baseurl:          ''
 
 # Disqus Comments
