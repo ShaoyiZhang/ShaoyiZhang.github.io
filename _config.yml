@@ -1,8 +1,11 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      rouge
+kramdown:
+  input: GFM
+  parse_block_html: true
+  syntax_highlighter: rouge
 
-# Permalinks
+  # Permalinks
 permalink:        pretty
 
 # Setup

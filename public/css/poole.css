@@ -428,3 +428,18 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+#markdown-toc::before {
+  content: "Contents";
+  font-weight: bold;
+}
+
+#markdown-toc ul {
+  list-style: disc;
+}
+
+#markdown-toc {
+  padding: 1.5em;
+  list-style: decimal;
+  display: inline-block;
+  float:right;
+}

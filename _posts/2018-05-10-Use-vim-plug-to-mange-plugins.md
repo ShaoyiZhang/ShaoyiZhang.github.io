@@ -3,6 +3,8 @@ layout: post
 title: Use vim-plug to manage plugins
 comments: true
 ---
+* content
+{:toc}
 
 When I started to use Vim, I chose vundle as the plugin manager. Recently, I tried out [vim-plug](https://github.com/junegunn/vim-plug) and prefers it over vundle for plug's the superior download speed(parallel downing). Here's how to install vim-plug and the .vimrc file I'm currently using.
 
