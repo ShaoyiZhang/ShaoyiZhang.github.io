@@ -28,7 +28,7 @@ docker run --name database -p 1521:1521 -p 5500:5500
 {% endhighlight %}
 
 #### Note
-For now, I suggest use all **capital letters** for **ORACLE_SID**. For some unkown reasons, lower case SID become capitalized in this container.
+For now, I suggest use all **capital letters** for **ORACLE_SID**. Lower case SID become capitalized in this container and broke shell scripts.
 
 ### Take a look at your Oracle Database
 {% highlight bash %}
