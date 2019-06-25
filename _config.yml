@@ -1,5 +1,6 @@
 # Dependencies
 markdown:         kramdown
+future: true
 kramdown:
   input: GFM
   parse_block_html: true
