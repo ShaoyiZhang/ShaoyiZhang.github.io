@@ -9,11 +9,19 @@ comments: true
 When I started to use Vim, I chose vundle as the plugin manager. Recently, I tried out [vim-plug](https://github.com/junegunn/vim-plug) and prefers it over vundle for plug's the superior download speed(parallel downing). Here's how to install vim-plug and the .vimrc file I'm currently using.
 
 <!--more-->
+### Make sure you are using the full Vim
+Ubuntu comes with Vim-tiny, which, as its name suggests, is tiny and lacks many features. Here's how to replace it with regular Vim.
+
+{% highlight bash %}
+sudo apt remove --assume-yes vim-tiny
+sudo apt update
+sudo apt install --assume-yes vim
+{% endhighlight %}
+
 ### Install vim-plug
 In shell, run
 {% highlight bash %}
-curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 {% endhighlight %}
 ### Install plugins using vim-plug
 In your ~/.vimrc, add
