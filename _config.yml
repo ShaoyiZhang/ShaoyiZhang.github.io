@@ -19,6 +19,7 @@ baseurl:          ''
 # Disqus Comments
 disqus_shortname: shaoyizhang-com
 
+google_analytics: UA-143827189-1
 author:
   name:           'Shaoyi Zhang'
   url:            'shaoyizhang.com'
