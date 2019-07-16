@@ -36,7 +36,7 @@ docker exec -it database /bin/bash  # Enter the terminal inside the container
 ps aux | grep pmon                  # List the database process
 {% endhighlight %}
 
-Now that the database is up and running, let's move on to Oracle REST Data Service (ORDS). The ORDS docker image was built on top of java docker image. Therefore we need to build the java image first
+Now that the database is up and running, let's move on to Oracle REST Data Service (ORDS). The ORDS docker image was built on top of java docker image. Therefore we need to build the java image first.
 
 ### Oracle REST Data Service Docker Image
 #### Download Java 8 Binaries
