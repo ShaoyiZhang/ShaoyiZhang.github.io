@@ -4,7 +4,7 @@ title: Obsidian git on Android 14 (Samsung) 2024
 comments: true
 ---
 
-[Obsidian](https://obsidian.md) has paid official syncing system, but with it's open and vibrant community, there are various ways to sync your notes between multiple devices. This post demonstrates how I set up the [obsidian-git](https://github.com/denolehov/obsidian-git) plugin on my Samsung S23 Ultra phone with One UI 6.x (Android 14).
+[Obsidian](https://obsidian.md) has paid official syncing system, but with it's open and vibrant community, there are various ways to sync your notes between multiple devices. This post demonstrates how I set up the [obsidian-git](https://github.com/denolehov/obsidian-git) plugin on my Samsung S23 and S25 Ultra phone with One UI 6 and 7 (Android 14).
 
 <!--more-->
 
@@ -21,8 +21,6 @@ This guide:
 1. Open Termux, run `termux-change-repo`. Press the ↓ button and press spacebar to tick all repositories, then press enter to move to the next screen
 1. Press ↓, then spacebar to tick the `Mirrors hosted by Albatross`, press enter
 1. Run `pkg install git -y`
-1. Run `termux-setup-am`
-    1. See [GitHub - termux/TermuxAm: Android Oreo-compatible am command reimplementation](https://github.com/termux/TermuxAm) for details
 1. Run `termux-setup-storage`
    1. See [Termux-setup-storage - Termux Wiki](https://wiki.termux.com/wiki/Termux-setup-storage) for details
 
@@ -32,8 +30,8 @@ This guide:
 1. Run `git clone <your repository>` and enter your login when prompted. You may need to create a [personal access token](https://github.com/settings/tokens) if you're using GitHub.
    1. You need to add the following permissions to the access token
         1. Repository: Your Notes/Obsidian repository
-        1. Repository permission: Metadata: Read access
-        1. Repository permission: Code and commit statuses: Read and write access
+        1. Repository permission: **Metadata**: Read access
+        1. Repository permission: **Code** and **commit** statuses: Read and write access
 
 ## Setup Obsidian and obsidian-git plugin
 
